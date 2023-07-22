@@ -1,0 +1,730 @@
+[
+    {
+    "kind": "books#volume",
+    "id": "JdphDwAAQBAJ",
+    "etag": "YvW8JRDnkB8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/JdphDwAAQBAJ",
+    "volumeInfo": {
+    "title": "Why Do Plants Have Flowers?",
+    "subtitle": "And Other Questions About Evolution and Classification",
+    "authors": [
+    "Pat Jacobs"
+    ],
+    "publisher": "The Rosen Publishing Group, Inc",
+    "publishedDate": "2016-12-15",
+    "description": "What is a plant? How does it eat? Why does it grow? Readers will answer these questions and more as they discover how to classify plants, identify their parts, and grasp the process of photosynthesis in this engaging text. Helpful diagrams are included to augment descriptions, and bright photographs make information relatable to young readers. Readers will explore plant habitats, observe unique adaptations, and discern how artificial selection and genetic engineering have changed the plants of our world. Stimulating sidebars will inspire budding scientists to pursue even more plant knowledge.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9781508153481"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "1508153485"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 34,
+    "printType": "BOOK",
+    "categories": [
+    "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=JdphDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=JdphDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JdphDwAAQBAJ&printsec=frontcover&dq=flowers&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=JdphDwAAQBAJ&dq=flowers&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Why_Do_Plants_Have_Flowers.html?hl=&id=JdphDwAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/Why_Do_Plants_Have_Flowers-sample-pdf.acsm?id=JdphDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JdphDwAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "What is a plant? How does it eat? Why does it grow? Readers will answer these questions and more as they discover how to classify plants, identify their parts, and grasp the process of photosynthesis in this engaging text."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "f9S4EAAAQBAJ",
+    "etag": "5kR+nA+M3dE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/f9S4EAAAQBAJ",
+    "volumeInfo": {
+    "title": "Crafting Authentic Paper Flowers",
+    "authors": [
+    "Sophie Longhurst"
+    ],
+    "publisher": "White Owl",
+    "publishedDate": "2022-01-12",
+    "description": "\"Exquisite full-page color photos showcase the intricate projects, and the step-by-step instructions are accompanied with photographs. This master class will entice crafters both seasoned and new.\" -Publishers Weekly The delicate art of paper flower craft has been around for centuries, originating in China in 100BC. Since then, the art has remained a powerful tool in calming the mind and encouraging a slower pace of life. Whatever your background, lifestyle or commitments, this book contains projects to nurture your personal skill set. Step-by-step instructions and inspiring illustrations will guide you through the process from start to finish. Paper crafting is an accessible hobby that can be easily practised at home by everyone of all ages. Whether you’re looking for a rewarding activity to share with your children, or something to help you unwind after a long workday, paper flower crafting is a perfect choice. Use your newfound skills to create your own decorations for display or pleasure, and discover the wonder of nature in all its glorious detail by paying special attention to the coloring, textures and intricate details of your projects.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9781526784698"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "1526784696"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+    "Crafts & Hobbies"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=f9S4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=f9S4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=f9S4EAAAQBAJ&printsec=frontcover&dq=flowers&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=f9S4EAAAQBAJ&dq=flowers&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Crafting_Authentic_Paper_Flowers.html?hl=&id=f9S4EAAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/Crafting_Authentic_Paper_Flowers-sample-pdf.acsm?id=f9S4EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f9S4EAAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Since then, the art has remained a powerful tool in calming the mind and encouraging a slower pace of life. Whatever your background, lifestyle or commitments, this book contains projects to nurture your personal skill set."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "-oNsDwAAQBAJ",
+    "etag": "f9DhFrugDIU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-oNsDwAAQBAJ",
+    "volumeInfo": {
+    "title": "Michael De Feo: Flowers",
+    "authors": [
+    "Michael De Feo"
+    ],
+    "publisher": "Abrams",
+    "publishedDate": "2019-04-09",
+    "description": "As an art student in 1993, Michael De Feo drew a simple bloom that became a familiar and welcome presence in New York after he spent countless nights pasting hundreds of versions of it all over the city’s building walls. Twenty-five years later, these flowers have been sighted in more than 60 international cities. His street works took a new direction in 2015 when a guerrilla art collective provided him access to the cases that protect bus-shelter ads, enabling him to launch a beautiful campaign of his blossoms on top of fashion ads. His art has taken many forms, including a substantial body of studio work inspired by Dutch 17th-century paintings and another series which married floral themes with Pre-Raphaelite and Victorian portraiture. De Feo’s colorful and lively book reproduces more than 200 of his flower-inspired images and features commentary from a diverse group of people who have supported his often-clandestine work.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9781683355182"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "1683355180"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": false
+    },
+    "pageCount": 198,
+    "printType": "BOOK",
+    "categories": [
+    "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.preview.2",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=-oNsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=-oNsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=-oNsDwAAQBAJ&pg=PP1&dq=flowers&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=-oNsDwAAQBAJ&dq=flowers&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Michael_De_Feo_Flowers.html?hl=&id=-oNsDwAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "PK",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": true
+    },
+    "pdf": {
+    "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-oNsDwAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "ggdLjwEACAAJ",
+    "etag": "Ml2QA+KmYL8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ggdLjwEACAAJ",
+    "volumeInfo": {
+    "title": "Flowers: Art & Bouquets",
+    "authors": [
+    "Sixtine Dubly",
+    "Carlos Mota"
+    ],
+    "publisher": "Assouline Publishing",
+    "publishedDate": "2016-05-01",
+    "description": "Be it a single delicate bud in a simple clear vase or an explosion of colorful blossoms, a brilliant bouquet accents an atmosphere and brightens the mood like nothing else. The beauty of flowers has inspired artists, designers, poets, and myriad other creators for centuries: the Dutch masters of the 1600s and impressionist painters from Manet to Van Gogh, photographer Robert Mapplethorpe, botanical illustrator Georg Dionysius Ehret, even the inimitable Andy Warhol. Flowers: Art & Bouquets showcases a glorious profusion of floral images and interpretations across a spectrum of artistic media and time periods. Design writer Sixtine Dubly chronicles the evolution of floral design in this remarkable compendium, which also features stunning work by more than forty contemporary floral artists in London, Paris, and New York, from minimalist to elaborate. This treasury of gorgeous imagery blooms in resplendent color before the reader’s eyes.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9781614285144"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "1614285144"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 5,
+    "printType": "BOOK",
+    "categories": [
+    "Travel"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=ggdLjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=ggdLjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ggdLjwEACAAJ&dq=flowers&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ggdLjwEACAAJ&dq=flowers&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Flowers_Art_Bouquets.html?hl=&id=ggdLjwEACAAJ"
+    },
+    "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "PK",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ggdLjwEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "The beauty of flowers has inspired artists, designers, poets, and myriad other creators for centuries: the Dutch masters of the 1600s and impressionist painters from Manet to Van Gogh, photographer Robert Mapplethorpe, botanical illustrator ..."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "TmMYtAEACAAJ",
+    "etag": "pmi+vb8ymSQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/TmMYtAEACAAJ",
+    "volumeInfo": {
+    "title": "Flowers and Flower Lore (Classic Reprint)",
+    "authors": [
+    "Hilderic Friend"
+    ],
+    "publisher": "Forgotten Books",
+    "publishedDate": "2017-12-27",
+    "description": "Excerpt from Flowers and Flower Lore While the Introduction and' Notes will supply such other information as may be required for the intelligent study of Flower Lore. It is therefore quite unnecessary for me to write a long preface, especially as I have taken pains to acknowledge my obligations to former writers by giving their names and the titles of their works whenever I have been indebted to them. I have every reason to hope that as great care has been taken in the preparation and revision of this work, it may give pleasure and satisfaction to such as, either from the love of Natural History or of Folk Lore, shall make it their study. About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work. Forgotten Books uses state-of-the-art technology to digitally reconstruct the work, preserving the original format whilst repairing imperfections present in the aged copy. In rare cases, an imperfection in the original, such as a blemish or missing page, may be replicated in our edition. We do, however, repair the vast majority of imperfections successfully; any imperfections that remain are intentionally left to preserve the state of such historical works.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "0484909290"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9780484909297"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 722,
+    "printType": "BOOK",
+    "categories": [
+    "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=TmMYtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=TmMYtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TmMYtAEACAAJ&dq=flowers&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=TmMYtAEACAAJ&dq=flowers&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Flowers_and_Flower_Lore_Classic_Reprint.html?hl=&id=TmMYtAEACAAJ"
+    },
+    "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "PK",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TmMYtAEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "8ypxcc7yJekC",
+    "etag": "jRiRpPBgnkk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/8ypxcc7yJekC",
+    "volumeInfo": {
+    "title": "Start Your Own Florist Shop and Other Floral Businesses",
+    "subtitle": "Your Step-By-Step Guide to Success",
+    "authors": [
+    "Entrepreneur Press"
+    ],
+    "publisher": "Entrepreneur Press",
+    "publishedDate": "2006-08-01",
+    "description": "Valentine’s Day, Mother’s Day, birthdays . . . with so many occasions appropriate for flowers, a florist shop is an enticing business to start. If you have a love for everything green and a desire to forge your own path, starting a floral business is ideal for you. Perfect your floral-arranging and customer service skills with a traditional florist shop; brighten others’ days with an office plant-care service; or encourage creativity with a pick-your-own-flowers establishment. This guide gives you advice on everything you need to start out right, including: • Selecting the right type of floral business • Finding flower wholesalers and growers • Anticipating demand and stocking the most popular flowers • Caring for your flowers • Stocking profitable sidelines, like greeting cards and balloons • And more! With the essential information inside, you’ll be turning greenery into greenbacks in no time.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9781613080702"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "1613080700"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": false
+    },
+    "pageCount": 116,
+    "printType": "BOOK",
+    "categories": [
+    "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.7.6.0.preview.2",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=8ypxcc7yJekC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=8ypxcc7yJekC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=8ypxcc7yJekC&printsec=frontcover&dq=flowers&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=8ypxcc7yJekC&dq=flowers&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Start_Your_Own_Florist_Shop_and_Other_Fl.html?hl=&id=8ypxcc7yJekC"
+    },
+    "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/Start_Your_Own_Florist_Shop_and_Other_Fl-sample-epub.acsm?id=8ypxcc7yJekC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8ypxcc7yJekC&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "This guide gives you advice on everything you need to start out right, including: • Selecting the right type of floral business • Finding flower wholesalers and growers • Anticipating demand and stocking the most popular flowers • ..."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "_muTEAAAQBAJ",
+    "etag": "vrDJsRN+dzM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_muTEAAAQBAJ",
+    "volumeInfo": {
+    "title": "Flowers and Their Meanings",
+    "subtitle": "The Secret Language and History of Over 600 Blooms (A Flower Dictionary)",
+    "authors": [
+    "Karen Azoulay"
+    ],
+    "publisher": "Clarkson Potter",
+    "publishedDate": "2023-03-21",
+    "description": "Uncover the secret meanings behind your bouquets and floral arrangements with this stunningly illustrated exploration of the Victorian language of flowers, including the multicultural history, rituals, and mythology behind over 600 flowers, herbs, and trees. In the Victorian language of flowers, hundreds of blooms were ascribed specific meanings based on folklore, science, and ancient history. Page through this botanical encyclopedia to learn each flower's Victorian meaning (ranunculus, for example, boldly states, \"I am dazzled by your charms,\" while marigold represents despair), common names, and cultural history. There is also an index of the flowers grouped by theme, should you want to challenge your local florist to create a coded message for a loved one. The study of floriography can be used by readers to decode hidden messages in beloved novels like The Age of Innocence or speculate as to why two canary-yellow roses—which signify jealousy and infidelity—were featured in Diana Spencer's wedding bouquet. You might share some honeysuckle (meaning \"bonds of love\") with a friend or partner as a gesture of commitment. Or perhaps you'll choose a celebratory bouquet of angelica (\"inspiration\") and purple columbine (\"resolved to win\") for a friend who has triumphed over something difficult. Karen Azoulay pairs nineteenth century botanical drawings with electric photography, creating a one-of-a-kind flower dictionary with a contemporary, artful feel. With a foreword by Kate Bolick and a helpful sentiment-based index, Flowers and Their Meanings is both a beautiful volume and a practical guide to incorporating the language of flowers into your own life.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9780593234679"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "0593234677"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+    "Nature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=_muTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=_muTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_muTEAAAQBAJ&dq=flowers&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_muTEAAAQBAJ&dq=flowers&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Flowers_and_Their_Meanings.html?hl=&id=_muTEAAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "PK",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_muTEAAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Karen Azoulay pairs nineteenth century botanical drawings with electric photography, creating a one-of-a-kind flower dictionary with a contemporary, artful feel."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "FeDyiNv7kxYC",
+    "etag": "C4WVIdE5g90",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/FeDyiNv7kxYC",
+    "volumeInfo": {
+    "title": "A Little Book of Flowers",
+    "subtitle": "Lore, Customs, and Language",
+    "authors": [
+    "Dale Evva Gelfand"
+    ],
+    "publisher": "Storey Publishing",
+    "publishedDate": "2004-02",
+    "description": "This lovingly designed, fit-in-the-palm-of-your-hand book suggests simple ways every woman can take a break from her frenetic daily schedule and enjoy a few moments of pampering alone or with family and friends. Almost as good as a bouquet itself, this book, by Dale Evva Gelfand, reveals the secret language of flowers, and suggests ways to express the perfect sentiment.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "1580175643"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9781580175647"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+    "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=FeDyiNv7kxYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=FeDyiNv7kxYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FeDyiNv7kxYC&dq=flowers&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FeDyiNv7kxYC&dq=flowers&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Little_Book_of_Flowers.html?hl=&id=FeDyiNv7kxYC"
+    },
+    "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "PK",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FeDyiNv7kxYC&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Almost as good as a bouquet itself, this book, by Dale Evva Gelfand, reveals the secret language of flowers, and suggests ways to express the perfect sentiment."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "bQGQzgEACAAJ",
+    "etag": "hwt7d6LkIKs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/bQGQzgEACAAJ",
+    "volumeInfo": {
+    "title": "A Life in Flowers",
+    "subtitle": "Lessons and Affirmatins from the Garden",
+    "authors": [
+    "Holly Heider Chapple"
+    ],
+    "publisher": "Bloom Imprint LLC",
+    "publishedDate": "2022-02-08",
+    "description": "Wedding and event florist and founder of the Chapel Designers floral community, Holly is a creative visionary and a highly recognized and sought-after floral designer whose work has been published in countless prestigious publications and top industry blogs. Learn about Holly's floral journey, the inspiring story of Hope Flower Farm, and the values of hospitality, creativity, and community that embody her life in flowers.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "1736848119"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9781736848111"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+    "Crafts & Hobbies"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=bQGQzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=bQGQzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bQGQzgEACAAJ&dq=flowers&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=bQGQzgEACAAJ&dq=flowers&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Life_in_Flowers.html?hl=&id=bQGQzgEACAAJ"
+    },
+    "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "PK",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bQGQzgEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Learn about Holly&#39;s floral journey, the inspiring story of Hope Flower Farm, and the values of hospitality, creativity, and community that embody her life in flowers."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "a_xZAAAAYAAJ",
+    "etag": "8DLYkbhkhRY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/a_xZAAAAYAAJ",
+    "volumeInfo": {
+    "title": "How Flowers Grow",
+    "authors": [
+    "Emma Helbrough"
+    ],
+    "publisher": "E.D.C. Publishing",
+    "publishedDate": "2003",
+    "description": "A simple, illustrated description of flowers and how and why they grow.",
+    "industryIdentifiers": [
+    {
+    "type": "OTHER",
+    "identifier": "PSU:000068211851"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 40,
+    "printType": "BOOK",
+    "categories": [
+    "Flowers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=a_xZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=a_xZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=a_xZAAAAYAAJ&dq=flowers&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=a_xZAAAAYAAJ&dq=flowers&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/How_Flowers_Grow.html?hl=&id=a_xZAAAAYAAJ"
+    },
+    "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "PK",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a_xZAAAAYAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "A simple, illustrated description of flowers and how and why they grow."
+    }
+    }
+]
